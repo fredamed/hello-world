@@ -1,3 +1,3 @@
 # hello-world
 depository for PF
-Hi, noy sure what this is all about
+Hi, not sure what this is all about
